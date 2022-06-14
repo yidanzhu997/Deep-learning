@@ -6,4 +6,4 @@ These are the deep learning projects I've worked on:
 - Tweet Sentiments Classification (roBERTa)
 - Celebrities Face Generation (Generative Adversarial Network)
 - Tuning with Metaheuristic Algorithm in the Application of Music Recognition (Particle Swamp Optimization with VGG and Resnet)
-- Map Images Classification (Resnet)
+- Satellite Images Classification (Resnet)
