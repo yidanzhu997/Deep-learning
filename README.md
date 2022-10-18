@@ -1,1 +1,1 @@
-Classify 20000 map images into urban and rural regions with convolutional neural network
+Classify 20000 satellite images into urban and rural regions with convolutional neural network
