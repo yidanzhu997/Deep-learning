@@ -1,2 +1,1 @@
-# Deep-learning
-These are the deep learning projects I've worked on.
+Classify 20000 map images into urban and rural regions with convolutional neural network
